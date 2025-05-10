@@ -21,7 +21,7 @@ You can donate to me or send money as per the SPL-R5 [here.](https://coindrop.to
 
 ---
 
-Copyright Sneed Group. All rights reserved. 
+Copyright Sammy Lord. All rights reserved. 
 
 
 **You *are* permitted to use any part of this website as part of a training set for a computer-generated algorithm.**
